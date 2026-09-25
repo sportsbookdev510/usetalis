@@ -108,7 +108,7 @@
             : ""
         )
           ? h.env.NEXT_PUBLIC_TOKEN_ADDRESS.trim()
-          : "0xComingSoon",
+          : "0xc8885f68acb213b144fda1835d61ef05d88ad687",
         B = /^https:\/\/[^\s/]+\/\S+$/.test(
           null !=
             (m =
