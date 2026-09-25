@@ -685,7 +685,7 @@
         //                   }),
         //                 }),
         //             f.map((s) => {
-        //               let t = "/app/markets/".concat(s.ticker);
+        //               let t = "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xc8885f68acb213b144fda1835d61ef05d88ad687/".concat(s.ticker);
         //               return (0, a.jsxs)(
         //                 c.TR,
         //                 {
@@ -792,7 +792,7 @@
         //         "mt-5 flex flex-wrap items-center justify-between gap-3",
         //       children: [
         //         (0, a.jsxs)(l(), {
-        //           href: "/app/markets",
+        //           href: "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xc8885f68acb213b144fda1835d61ef05d88ad687",
         //           className:
         //             "inline-flex items-center gap-2 rounded-md text-sm font-medium text-income transition-colors hover:text-forest-deep",
         //           children: [

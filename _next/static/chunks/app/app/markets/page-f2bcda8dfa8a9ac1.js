@@ -510,7 +510,7 @@
             (0, s.jsxs)(l.vc, {
               children: [
                 t.map((e) => {
-                  let t = "/app/markets/".concat(e.ticker.toLowerCase()),
+                  let t = "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xc8885f68acb213b144fda1835d61ef05d88ad687/".concat(e.ticker.toLowerCase()),
                     n = !!e.nextSeries,
                     i =
                       !n && "created" === e.seriesState && !!e.indicativeBasis,
@@ -2005,7 +2005,7 @@
                     (0, s.jsx)(b.yo, {
                       market: w,
                       markets: p,
-                      onSelect: (e) => n.replace("/app/markets?t=".concat(e)),
+                      onSelect: (e) => n.replace("https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xc8885f68acb213b144fda1835d61ef05d88ad687?t=".concat(e)),
                     }),
                     (0, s.jsx)(A, {
                       market: w,

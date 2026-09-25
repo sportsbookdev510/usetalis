@@ -743,7 +743,7 @@
       var b = a(29142),
         g = a(91109);
       let f = [
-        { label: "Markets", href: "/app/markets", icon: l },
+        { label: "Markets", href: "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xc8885f68acb213b144fda1835d61ef05d88ad687", icon: l },
         { label: "Positions", href: "/app/positions", icon: d },
         { label: "Launchpad", href: "/app/launchpad", icon: h },
         { label: "Auctions", href: "/app/auctions", icon: m },

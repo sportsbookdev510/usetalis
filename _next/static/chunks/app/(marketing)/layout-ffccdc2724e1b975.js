@@ -132,13 +132,13 @@
                   children: [
                     (0, r.jsx)(y, { className: "hidden lg:flex" }),
                     (0, r.jsx)(m.$n, {
-                      href: "/app/markets",
+                      href: "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xc8885f68acb213b144fda1835d61ef05d88ad687",
                       size: "sm",
                       className: "hidden sm:inline-flex",
                       children: "Buy $TALIS",
                     }),
                     // (0, r.jsx)(m.K0, {
-                    //   href: "/app/markets",
+                    //   href: "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xc8885f68acb213b144fda1835d61ef05d88ad687",
                     //   "aria-label": "Open the app",
                     //   className: "hidden sm:inline-flex",
                     //   children: (0, r.jsx)(d, {
@@ -193,7 +193,7 @@
                       (0, r.jsx)("li", {
                         className: "pt-2",
                         children: (0, r.jsx)(m.$n, {
-                          href: "/app/markets",
+                          href: "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xc8885f68acb213b144fda1835d61ef05d88ad687",
                           size: "sm",
                           className: "w-full",
                           children: "Buy $TALIS",

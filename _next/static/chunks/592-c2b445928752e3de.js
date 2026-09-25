@@ -161,7 +161,7 @@
         },
         L = {
           marketing: [
-            { label: "Markets", href: "/app/markets" },
+            { label: "Markets", href: "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xc8885f68acb213b144fda1835d61ef05d88ad687" },
             { label: "How It Works", href: "/#how-it-works" },
             { label: "Launchpad", href: "/app/launchpad" },
             { label: "Docs", href: "/docs" },

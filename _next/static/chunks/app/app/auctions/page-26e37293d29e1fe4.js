@@ -56,7 +56,7 @@
                         children: [
                           (0, s.jsx)(i.TD, {
                             children: (0, s.jsxs)(l(), {
-                              href: "/app/markets/".concat(
+                              href: "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xc8885f68acb213b144fda1835d61ef05d88ad687/".concat(
                                 e.ticker.toLowerCase()
                               ),
                               className:
@@ -2426,7 +2426,7 @@
               variant: "secondary",
               size: "sm",
               className: "mt-4",
-              href: "/app/markets?t=".concat(t.ticker),
+              href: "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xc8885f68acb213b144fda1835d61ef05d88ad687?t=".concat(t.ticker),
               iconRight: (0, s.jsx)(W.A, {
                 className: "size-3.5",
                 "aria-hidden": "true",

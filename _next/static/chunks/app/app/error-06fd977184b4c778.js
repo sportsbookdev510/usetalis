@@ -96,7 +96,7 @@
                   (0, a.jsx)(c.$n, {
                     size: "sm",
                     variant: "ghost",
-                    href: "/app/markets",
+                    href: "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xc8885f68acb213b144fda1835d61ef05d88ad687",
                     iconRight: (0, a.jsx)(o.A, {
                       className: "size-3.5",
                       "aria-hidden": "true",

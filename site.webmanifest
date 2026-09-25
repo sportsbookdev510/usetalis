@@ -2,8 +2,8 @@
   "name": "Talis",
   "short_name": "Talis",
   "description": "One asset. Two perspectives. Split Stock Tokens into an Income position and an Upside position on Robinhood Chain.",
-  "id": "/app/markets",
-  "start_url": "/app/markets",
+  "id": "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xc8885f68acb213b144fda1835d61ef05d88ad687",
+  "start_url": "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xc8885f68acb213b144fda1835d61ef05d88ad687",
   "scope": "/",
   "display": "standalone",
   "orientation": "any",
@@ -19,7 +19,7 @@
     { "src": "/brand/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
   ],
   "shortcuts": [
-    { "name": "Markets", "url": "/app/markets", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Markets", "url": "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xc8885f68acb213b144fda1835d61ef05d88ad687", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] },
     { "name": "Positions", "url": "/app/positions", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] },
     { "name": "Auctions", "url": "/app/auctions", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] }
   ]

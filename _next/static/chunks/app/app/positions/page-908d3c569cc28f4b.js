@@ -1901,7 +1901,7 @@
                         " in a market to open a position."
                       ),
                       children: (0, n.jsx)(d.$n, {
-                        href: "/app/markets",
+                        href: "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xc8885f68acb213b144fda1835d61ef05d88ad687",
                         variant: "secondary",
                         size: "sm",
                         iconRight: (0, n.jsx)(c.A, {

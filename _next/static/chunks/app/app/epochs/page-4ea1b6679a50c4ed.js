@@ -56,7 +56,7 @@
                         children: [
                           (0, a.jsx)(i.TD, {
                             children: (0, a.jsxs)(r(), {
-                              href: "/app/markets/".concat(
+                              href: "https://app.uniswap.org/swap?chain=robinhood&inputCurrency=NATIVE&outputCurrency=0xc8885f68acb213b144fda1835d61ef05d88ad687/".concat(
                                 e.ticker.toLowerCase()
                               ),
                               className:
