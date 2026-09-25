@@ -208,7 +208,7 @@
           ? v.env.NEXT_PUBLIC_FACTORY_ADDRESS
           : void 0,
         U =
-          "https://dexscreener.com/robinhood/0x3430fe00a00c586c9e879ce5ba3ab7b76a2fc3843ca63d84c0c5fa9879ebc0b6",
+          "https://dexscreener.com/robinhood/0x8a207f8a985b7996d9cd4af6469eb1768bc920c3",
         N = /^0x[0-9a-fA-F]{40}$/.test(
           null !=
             (u =
